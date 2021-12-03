@@ -1,2 +1,2 @@
-# Responsive_frontend_website
-Birds of hawaii data from their website. I do not own the data but the source code is mine.
+# ResponsiveFrontend
+Birds of Hawaii website from scratch. Design and code are mine but the words and pictures are not
